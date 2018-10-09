@@ -1,0 +1,44 @@
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\bin\Debug\Fees Collection.exe.config
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\bin\Debug\Fees Collection.exe
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\bin\Debug\Fees Collection.pdb
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\bin\Debug\Fees Collection.xml
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.Form1.resources
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.Resources.resources
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees Collection.vbproj.GenerateResource.Cache
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees Collection.exe
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees Collection.xml
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees Collection.pdb
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.Main_Page.resources
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.Student_Reg.resources
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.Fees_calc.resources
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\bin\Debug\MySql.Data.dll
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\bin\Debug\Google.Protobuf.dll
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\bin\Debug\MySql.Data.xml
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.Fee_payement_Page.resources
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.ReceiptForm.resources
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.StudentLists.resources
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.Fees_Page_list.resources
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.SplashCreen.resources
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.Student_Profile.resources
+C:\Users\Telthem\Desktop\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.Arrears.resources
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\bin\Debug\Fees Collection.exe.config
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees Collection.exe
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees Collection.xml
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees Collection.pdb
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\bin\Debug\Fees Collection.exe
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\bin\Debug\Fees Collection.pdb
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\bin\Debug\Fees Collection.xml
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.Arrears.resources
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.Fees_calc.resources
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.Fees_Page_list.resources
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.Fee_payement_Page.resources
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.Form1.resources
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.Main_Page.resources
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.Resources.resources
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.ReceiptForm.resources
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.SplashCreen.resources
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.StudentLists.resources
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.Student_Profile.resources
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees_Collection.Student_Reg.resources
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees Collection.vbproj.GenerateResource.Cache
+C:\Users\Telthem\Desktop\Buse_Projects\Fees_Collect_system\Fees Collection\Fees Collection\obj\Debug\Fees Collection.vbprojResolveAssemblyReference.cache

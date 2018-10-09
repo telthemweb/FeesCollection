@@ -1,0 +1,6 @@
+Sunday, 12 August, 2018 9:28:24 ===>> Conversion from string "B110405" to type 'Integer' is not valid.
+Sunday, 26 August, 2018 7:06:33 ===>> There is no row at position 0.
+Sunday, 26 August, 2018 7:06:58 ===>> There is no row at position 0.
+Sunday, 26 August, 2018 7:25:19 ===>> There is no row at position 0.
+Sunday, 26 August, 2018 7:26:44 ===>> There is no row at position 0.
+Saturday, 29 September, 2018 14:17:42 ===>> Your query does not include the specified expression '`regNumber`' as part of an aggregate function.
